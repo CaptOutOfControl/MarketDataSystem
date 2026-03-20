@@ -17,7 +17,7 @@
 
 ## 非结构化乱码自动解析演示
 源文件
-<img width="1415" height="128" alt="屏幕截图 2026-03-20_09-21-58" src="https://github.com/user-attachments/assets/4064369b-0c5d-443d-a4e3-1e72991ff557" />
+<img width="1397" height="178" alt="屏幕截图 2026-03-20_09-22-46" src="https://github.com/user-attachments/assets/76523f8b-a660-47f1-9b22-d79a18d836c6" />
 
 处理后
 <img width="513" height="182" alt="屏幕截图 2026-03-20_09-20-47" src="https://github.com/user-attachments/assets/3d5571b5-63d4-419d-b2d0-6f53e9eb2f06" />
