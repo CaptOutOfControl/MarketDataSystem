@@ -10,6 +10,7 @@
 
 ### 生成统计数据
 记录每次传输时间与状态
+
 <img width="404" height="653" alt="屏幕截图 2026-03-20_09-17-09" src="https://github.com/user-attachments/assets/3c01beab-df1e-4179-8f25-42ad44e8c640" />
 
 生成service.xlsx(自动解析非结构化数据、乱码重编译、分类整理）
