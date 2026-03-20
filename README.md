@@ -14,3 +14,10 @@
 
 生成service.xlsx(自动解析非结构化数据、乱码重编译、分类整理）
 <img width="519" height="778" alt="屏幕截图 2026-03-20_09-18-05" src="https://github.com/user-attachments/assets/ed8f7c77-e3c8-4721-8616-b2317985e384" />
+
+## 非结构化乱码自动解析演示
+源文件
+<img width="1415" height="128" alt="屏幕截图 2026-03-20_09-21-58" src="https://github.com/user-attachments/assets/4064369b-0c5d-443d-a4e3-1e72991ff557" />
+
+处理后
+<img width="513" height="182" alt="屏幕截图 2026-03-20_09-20-47" src="https://github.com/user-attachments/assets/3d5571b5-63d4-419d-b2d0-6f53e9eb2f06" />
